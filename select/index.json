@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Treasure Believer",
+  "base_artist": "VΔLZ",
+  "createdAt": "2025-12-15T10:23:21.713758Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Treasure Believer",
+      "artist": "VΔLZ",
+      "has_synced": false,
+      "path": "select/pl_01_Treasure_Believer_VΔLZ.txt"
+    }
+  ]
+}
